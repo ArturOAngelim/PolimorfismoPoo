@@ -2,7 +2,7 @@ from exportar import *
 
 def main():
     u=[
-        Usuario("Danoel","Dandan@gmail.com"),
+        Usuario("Daniel","Dandan@gmail.com"),
         Usuario("Lucas","LucasFulano@gmail.com"),
         Usuario("Ana","AnaCiclana@gmail.com")
     ]
